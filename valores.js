@@ -1,3 +1,5 @@
+//Repo de profesor: https://github.com/degranda/jsBasico-
+
 let string = 40 //Type number
 
 let number = "Duvan Yesid" //Type string
