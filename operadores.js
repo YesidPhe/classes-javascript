@@ -9,22 +9,22 @@ var d = 20 / 2;
 var e = "Duvan" + "Yesid";
 
 //Unary operator
-var f = !false //true
+var f = !false; //true
 
 //Operator de asignación (=)
 var g = 1;
 
 //Operator de comparación
-var h = (1 == "1"); //true contenido
-var i = (1 === "1"); //false tipo y contenido
+var h = 1 == "1"; //true contenido
+var i = 1 === "1"; //false tipo y contenido
 
-var j = (5 < 3); //false
-var k = (5 > 3); //true
-var l = (5 <= 3); //false
-var m = (5 >= 3); //true
+var j = 5 < 3; //false
+var k = 5 > 3; //true
+var l = 5 <= 3; //false
+var m = 5 >= 3; //true
 
-var n = (k && m); //si (k=true Y m=true) = true
-var o = (k || m); //si (k=true O m=true) = true
+var n = k && m; //si (k=true Y m=true) = true
+var o = k || m; //si (k=true O m=true) = true
 
 //Operator de incremento y decremento
 g++; //2

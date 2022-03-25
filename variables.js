@@ -14,8 +14,8 @@ edad; //17
 var elements = ["Computador", "Celular"];
 
 var person = {
-    name: "Duvan",
-    edad: 17
+  name: "Duvan",
+  edad: 17
 }
 
 elements;

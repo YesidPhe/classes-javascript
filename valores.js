@@ -12,7 +12,7 @@ let value = undefined //Value primitive not defined. EVITAR
 
 let array = [1, 2, 3, 4, 5, 6, 7, 8, 9] //Value type array. Type object
 let object = {
-        nombre: "Duvan"
-    } //Type object
+    nombre: "Duvan"
+  } //Type object
 
 typeof 40 //Muestra que tipo de valor es

@@ -14,7 +14,7 @@ nombre = "Duvan"; Se inicializa
 hey();
 
 function hey() {
-    console.log("Hi");
+  console.log("Hi");
 }
 //Al procesar el codigo pasa lo siguiente:
 /*
@@ -30,7 +30,7 @@ hey(); Se declara la variale
 hey();
 
 function hey() {
-    console.log("Hi " + nombre); //Hi undefined
+  console.log("Hi " + nombre); //Hi undefined
 }
 
 var nombre = "Duvan";
